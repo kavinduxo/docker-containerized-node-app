@@ -1,0 +1,19 @@
+{
+  "name": "docker-containerized-node-app",
+  "version": "1.0.0",
+  "description": "Docker containerized node app for testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kavinduxo@github.com/kavinduxo/docker-containerized-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavinduxo/docker-containerized-node-app/issues"
+  },
+  "homepage": "https://github.com/kavinduxo/docker-containerized-node-app#readme"
+}
